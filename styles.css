@@ -1,1 +1,20 @@
 /* Write your CSS here! */
+h2 {
+    color:beige
+}
+
+header {
+    color: yellow
+}
+
+p {
+    color: yellow
+}
+
+body {
+    background-image: url('images/bg.jpg');
+  }
+
+a {
+    color: rgb(252, 206, 122)
+}
